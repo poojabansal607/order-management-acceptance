@@ -1,0 +1,4 @@
+2015-10-13 11:36:09,354 INFO  (setupClass.java:38)     - starting testing scenario Add two numbers
+2015-10-13 11:36:09,826 INFO  (setupClass.java:38)     - starting testing scenario Subtract two numbers
+2015-10-13 11:36:09,927 INFO  (setupClass.java:38)     - starting testing scenario Add two numbers
+2015-10-13 11:36:09,984 INFO  (setupClass.java:73)     - starting browser testing scenario | selenium | Web Browser Automation |

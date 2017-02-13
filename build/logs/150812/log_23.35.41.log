@@ -1,0 +1,22 @@
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:35:41,528 INFO  (setupClass.java:73)     - starting browser testing scenario | selenium | Mercury QTP |
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:35:41,528 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:35:41,528 INFO  (setupClass.java:38)     - starting testing scenario | selenium | Mercury QTP |
+2015-08-12 23:35:41,538 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: I_am_on_the_google_search_page
+2015-08-12 23:35:41,538 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: navigateToSearchPage
+2015-08-12 23:35:41,538 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-12 23:35:42,429 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: user_search_for
+2015-08-12 23:35:42,429 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: result_should_display_the_link
+2015-08-12 23:35:42,439 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: afterSetup
+2015-08-12 23:35:42,439 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:35:42,439 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: setUp
+2015-08-12 23:35:42,439 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-12 23:35:42,439 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setupLogger

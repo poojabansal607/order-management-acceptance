@@ -1,0 +1,14 @@
+2015-08-12 23:33:33,800 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-12 23:33:33,830 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:33:33,830 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:33:33,830 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:33:33,830 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:33:33,840 INFO  (setupClass.java:38)     - starting testing scenario Add two numbers
+2015-08-12 23:33:34,260 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: i_have_a_calculator
+2015-08-12 23:33:34,270 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: i_add_and
+2015-08-12 23:33:34,270 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.Calculator, Method: add
+2015-08-12 23:33:34,270 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: the_result_should_be
+2015-08-12 23:33:34,270 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.Calculator, Method: getResult
+2015-08-12 23:33:34,281 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: setUp
+2015-08-12 23:33:34,281 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-12 23:33:34,281 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setupLogger

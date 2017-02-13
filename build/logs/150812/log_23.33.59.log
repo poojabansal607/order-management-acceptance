@@ -1,0 +1,33 @@
+2015-08-12 23:33:59,201 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-12 23:33:59,201 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:33:59,201 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:33:59,201 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:33:59,201 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:33:59,201 INFO  (setupClass.java:38)     - starting testing scenario Redirect user to originally requested page after logging in
+2015-08-12 23:33:59,404 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: setUp
+2015-08-12 23:33:59,407 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-12 23:33:59,407 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setupLogger
+2015-08-12 23:33:59,414 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-12 23:33:59,414 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:33:59,414 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:33:59,414 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:33:59,417 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:33:59,417 INFO  (setupClass.java:38)     - starting testing scenario Redirect user to originally requested page after logging in
+2015-08-12 23:33:59,442 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: setUp
+2015-08-12 23:33:59,444 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-12 23:33:59,445 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setupLogger
+2015-08-12 23:33:59,451 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-12 23:33:59,452 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:33:59,453 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:33:59,453 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:33:59,453 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:33:59,454 INFO  (setupClass.java:38)     - starting testing scenario Obtain the weather in London with JSON results
+2015-08-12 23:33:59,456 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetup
+2015-08-12 23:33:59,457 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-12 23:33:59,458 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-12 23:33:59,458 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-12 23:33:59,477 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-12 23:33:59,478 INFO  (setupClass.java:55)     - starting service testing scenario Obtain the weather in London with JSON results
+2015-08-12 23:33:59,483 INFO  (MyAspects.java:39)     - Class: com.steps.WeatherServiceSteps, Method: validateWeatherServiceAvailable
+2015-08-12 23:33:59,484 INFO  (MyAspects.java:39)     - Class: com.steps.WeatherServiceSteps, Method: getWeather
+2015-08-12 23:33:59,524 INFO  (MyAspects.java:39)     - Class: com.steps.WeatherServiceSteps, Method: getWeather

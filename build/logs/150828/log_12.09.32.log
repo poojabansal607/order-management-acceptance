@@ -1,0 +1,33 @@
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-28 12:09:32,759 INFO  (setupClass.java:38)     - starting testing scenario | selenium | Web Browser Automation |
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setUp
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-28 12:09:32,759 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-28 12:09:32,759 INFO  (setupClass.java:73)     - starting browser testing scenario | selenium | Web Browser Automation |
+2015-08-28 12:09:33,008 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: I_am_on_the_google_search_page
+2015-08-28 12:09:33,024 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: navigateToSearchPage
+2015-08-28 12:09:33,040 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:33,040 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getNewDriver
+2015-08-28 12:09:33,040 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getscenario
+2015-08-28 12:09:56,052 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: user_search_for
+2015-08-28 12:09:56,052 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: searchFor
+2015-08-28 12:09:56,052 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:56,052 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:56,084 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: searchFor
+2015-08-28 12:09:56,084 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: enterSearchCriteria
+2015-08-28 12:09:56,490 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: search
+2015-08-28 12:09:57,192 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: result_should_display_the_link
+2015-08-28 12:09:57,192 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: assertSearchResultsFound
+2015-08-28 12:09:57,192 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:57,207 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: getSearchResults
+2015-08-28 12:09:58,082 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: afterSetup
+2015-08-28 12:09:58,082 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:58,082 INFO  (MyAspects.java:39)     - Class: com.steps.CalculatorSteps, Method: setUp
+2015-08-28 12:09:58,082 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: initialSetupNoTag
+2015-08-28 12:09:58,082 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setupLogger

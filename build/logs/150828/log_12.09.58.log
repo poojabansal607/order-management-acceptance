@@ -1,0 +1,32 @@
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: saveState
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-28 12:09:58,113 INFO  (setupClass.java:38)     - starting testing scenario | selenium | Mercury QTP |
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: setUp
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: setScenario
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-28 12:09:58,113 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-28 12:09:58,113 INFO  (setupClass.java:73)     - starting browser testing scenario | selenium | Mercury QTP |
+2015-08-28 12:09:58,129 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: I_am_on_the_google_search_page
+2015-08-28 12:09:58,129 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: navigateToSearchPage
+2015-08-28 12:09:58,129 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:59,018 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: user_search_for
+2015-08-28 12:09:59,018 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: searchFor
+2015-08-28 12:09:59,018 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:59,018 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: searchFor
+2015-08-28 12:09:59,018 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: enterSearchCriteria
+2015-08-28 12:09:59,487 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: search
+2015-08-28 12:09:59,908 INFO  (MyAspects.java:39)     - Class: com.steps.SearchSteps, Method: result_should_display_the_link
+2015-08-28 12:09:59,908 INFO  (MyAspects.java:39)     - Class: com.sapient.impl.SearchImpl, Method: assertSearchResultsFound
+2015-08-28 12:09:59,908 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: getDriver
+2015-08-28 12:09:59,908 INFO  (MyAspects.java:39)     - Class: com.sapient.pages.GoogleSearchPage, Method: getSearchResults
+2015-08-28 12:10:10,235 INFO  (MyAspects.java:39)     - Class: com.sapient.setup.setupClass, Method: afterSetup
+2015-08-28 12:10:10,235 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.SetupUtils, Method: getState
+2015-08-28 12:10:10,235 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: isTakeScreenShot
+2015-08-28 12:10:10,235 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: getScenarioName
+2015-08-28 12:10:10,252 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.ScenarioUtils, Method: extractScenarioName
+2015-08-28 12:10:10,252 INFO  (setupClass.java:90)     - Scenario: | selenium | Mercury QTP | Failed. Taking screenshot
+2015-08-28 12:10:10,252 INFO  (MyAspects.java:39)     - Class: com.sapient.utils.WebDriverUtils, Method: takeScreenShot
